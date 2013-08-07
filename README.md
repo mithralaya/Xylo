@@ -22,4 +22,4 @@ Config.ini loader
 
 Please feel free to download and use it.
 
-If you improvise it please contribute to this repo.
+If you improvise, please contribute to this repo.
